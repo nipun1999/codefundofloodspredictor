@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140629683925",
+    "firebase_url": "https://floodpredictor-219413.firebaseio.com",
+    "project_id": "floodpredictor-219413",
+    "storage_bucket": "floodpredictor-219413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140629683925:android:7d342dfdd2ed2ff7",
+        "android_client_info": {
+          "package_name": "com.itparkbynipun.floodspredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140629683925-as9ll4qgp3uabvma436k73a9p7k27hdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itparkbynipun.floodspredictor",
+            "certificate_hash": "a9bde7d8422265b69b0d59f3fbad39086e008a7f"
+          }
+        },
+        {
+          "client_id": "140629683925-mltvoeik7cgaumf74ua128tlf14iuumm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_7iIp7ejSeGwD0rsudR68y8PJJDp-Y8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140629683925-mltvoeik7cgaumf74ua128tlf14iuumm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
